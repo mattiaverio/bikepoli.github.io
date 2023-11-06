@@ -19,6 +19,10 @@ Pajalta löytyy lähes kaikki tarvittava pyöränkorjaamiseen – ketjuöljystä
 
 Perusperiaatteena pajalla on, että kaikki koskevat vain omaan pyöräänsä, eli apua sekä ohjeita saa varmasti muilta oman elämänsä pyörämekaanikoilta, mutta korjaustyöt tehdään omatoimisesti. Ei silti syytä huoleen – pyöränkorjailu on huomattavasti helpompaa ja hauskempaa kuin miltä ehkä alkuun voisi vaikuttaa!
 
+<!-- image from assets/huoltopaja.jpg -->
+
+[![Huoltopaja](/assets/huoltopaja.jpg)](/assets/huoltopaja.jpg){:target="\_blank"}
+
 ## Workshop 🇬🇧
 
 Bikepoli has a workshop at their disposal, which also serves as a club room. The workshop is located at Otakaari 20, on the inner courtyard side. You can find the workshop door at the end of the driving lane.
