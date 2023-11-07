@@ -13,6 +13,10 @@ Kaikissa asioissa apua tarjoaa [Bikepolin hallitus](mailto:hello@bikepoli.fi).
 
 #### Laskutus ja muut raha-asiat
 
+Maksutiedot\
+IBAN: FI15 5721 1520 3161 47\
+BIC: OKOYFIHH\
+Address: Otakaari 20a, 02150 Espoo\
 Eemil Praks: [receipts@bikepoli.fi](mailto:receipts@bikepoli.fi)
 
 #### Telegram
