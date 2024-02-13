@@ -17,7 +17,7 @@ Maksutiedot\
 IBAN: FI70 5720 1020 6003 06\
 BIC: OKOYFIHH\
 Address: Otakaari 20a, 02150 Espoo\
-Eemil Praks: [receipts@bikepoli.fi](mailto:receipts@bikepoli.fi)
+Rahastonhoitaja: [receipts@bikepoli.fi](mailto:receipts@bikepoli.fi)
 
 #### Telegram
 
@@ -31,7 +31,7 @@ For any matter, [Bikepoli's board](mailto:hello@bikepoli.fi) is here to assist.
 
 #### Billing and other financial matters
 
-Eemil Praks: [receipts@bikepoli.fi](mailto:receipts@bikepoli.fi)
+Master of Coin: [receipts@bikepoli.fi](mailto:receipts@bikepoli.fi)
 
 #### Telegram
 
